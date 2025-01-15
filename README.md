@@ -1,6 +1,6 @@
 1. Copy script to accessible location, e.g. for AD changes on prem.
 2. Open powershell (AS ADMIN)
-3. Type the following, be sure to replace ** with the relevant information: cd C:\Users\*user*\*desktop*.
+3. Type the following, be sure to replace ** with the relevant information: cd C:\Users\user\desktop.
 Please be aware if you have installed it in another place you can find that directory the same way. For example:
 
 cd C:\Users\DefinitelyJim\Documents\Scripts
